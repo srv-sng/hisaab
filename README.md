@@ -20,7 +20,7 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/asdhamidi/hisaab.git
+    git clone https://github.com/srv-sng/hisaab.git
     cd hisaab
     ```
 2. Install the dependencies:
